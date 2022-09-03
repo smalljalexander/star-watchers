@@ -2,7 +2,7 @@
 
 Star Watchers is a responsive web app used the NASA picture of the day api to display pictures and descriptions of things space.  You can select any date from the past to display the picture or video from that day.
 <gif of app>
-Link to app: <url>
+Link to app: <a href= "https://star-gazers.netlify.app"> Star Gazers App </a>
 
 # How’s it made
 <b>Tech Used:</b> html, css, JavaScript 
